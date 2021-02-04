@@ -7,9 +7,10 @@ In this backend application I developed a transaction management application in 
   In order to get a copy of this project and run on your local machine for development and testing purposes you will need to clone the project,install all the dependencies and execute the command "localhost:8080". It is important to note that this project requires a running database, I suggest you use DBeaver.
   
  # Built Using:
-   MySQL - Database
-   DBeaver - Database administration tool.
-   PHP - Programming language.
+   1.MySQL - Database
+   2.DBeaver - Database administration tool.
+   3.PHP - Programming language.
+   4.Codeigniter framework.
    
  # Author
    edna-harriet - Harriet Auma Odima.
